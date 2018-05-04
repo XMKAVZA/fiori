@@ -1,0 +1,16 @@
+<mvc:View controllerName="renova.egitimrenova.egitim1.controller.View1" xmlns:html="http://www.w3.org/1999/xhtml"
+	xmlns:mvc="sap.ui.core.mvc" displayBlock="true" xmlns="sap.m">
+	<App>
+		<pages>
+			<Page title="{i18n>title}">
+				<content>
+					<Button icon="sap-icon://edit" text="Mesaj göster" press="onPress" ariaLabelledBy="editButtonLabel"/>
+					<Input id="inputArea" width="40%" />
+					<Button text="Aktar" press="onAktar" />
+					<Text id="textArea"/>
+					<Button text="Dialog" press="onDialog" />
+				</content>
+			</Page>
+		</pages>
+	</App>
+</mvc:View>

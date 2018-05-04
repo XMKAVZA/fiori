@@ -1,0 +1,8 @@
+<core:FragmentDefinition  xmlns="sap.m" xmlns:core="sap.ui.core">
+	<Dialog id="dialogArea" title="Merhaba">
+		<content>
+			<Text id="textDialogArea"/>
+		</content>
+	</Dialog>
+	
+</core:FragmentDefinition>

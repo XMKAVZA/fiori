@@ -6,7 +6,7 @@
 				<content>
 					<Button icon="sap-icon://edit" text="Mesaj göster" press="onPress" ariaLabelledBy="editButtonLabel"/>
 					<Input id="inputArea" width="40%" />
-					<Button text="ertugrul" press="onAktar" />
+					<Button text="ertugrul1" press="onAktar" />
 					<Text id="textArea"/>
 					<Button text="Dialog" press="onDialog" />
 				</content>
